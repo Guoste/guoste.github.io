@@ -99,9 +99,15 @@ body{
     vertical-align: top;
   }
 
+  textarea {
+      width: 178px;
+  }
+
   footer {
       background-color: rgb(63, 61, 61);
       color: #ccc;
       font-size: 12px;
      padding: 20px 0;
   }
+
+  
